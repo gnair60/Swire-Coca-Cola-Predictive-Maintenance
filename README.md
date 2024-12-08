@@ -79,7 +79,7 @@ Creating user-friendly interfaces with real-time monitoring capabilities, couple
 
 Results that help the business (Swire-Coca-Cola) requirements.
 
-**[EDA Notebook](https://github.com/gnair60/Home-Credit-Capstone/blob/main/EDA.ipynb)**
+**[EDA Notebook](https://github.com/gnair60/Swire-Coca-Cola-Predictive-Maintenance-/blob/main/EDA.ipynb)**
 
 **[Modeling Notebook](https://github.com/gnair60/Home-Credit-Capstone/blob/main/Modelling.ipynb)**
 
