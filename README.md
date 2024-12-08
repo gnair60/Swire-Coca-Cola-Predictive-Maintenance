@@ -84,3 +84,6 @@ Results that help the business (Swire-Coca-Cola) requirements.
 **[Modeling Notebook](https://github.com/gnair60/Home-Credit-Capstone/blob/main/Modelling.ipynb)**
 
 **[Presentation](https://github.com/gnair60/Swire-Coca-Cola-Predictive-Maintenance-/blob/main/Capstone_Presentation.pdf)**
+
+**[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJjNWZmYTAtMGVhNy00NTE5LTk0YjYtY2Q3ZDQwYTA0ZDlhIiwidCI6IjUyMTdlMGU3LTUzOWQtNDU2My1iMWJmLTdjNmRjZjA3NGY5MSIsImMiOjZ9)**
+
