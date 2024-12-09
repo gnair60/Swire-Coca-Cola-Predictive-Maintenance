@@ -81,7 +81,7 @@ Results that help the business (Swire-Coca-Cola) requirements.
 
 **[EDA Notebook](https://github.com/gnair60/Swire-Coca-Cola-Predictive-Maintenance-/blob/main/EDA.ipynb)**
 
-**[Modeling Notebook](https://github.com/gnair60/Home-Credit-Capstone/blob/main/Modelling.ipynb)**
+**[Modeling Notebook](https://github.com/gnair60/Swire-Coca-Cola-Predictive-Maintenance-/blob/main/Modeling.ipynb)**
 
 **[Presentation](https://github.com/gnair60/Swire-Coca-Cola-Predictive-Maintenance-/blob/main/Capstone_Presentation.pdf)**
 
